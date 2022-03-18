@@ -1,5 +1,5 @@
-# Package L04
-This is my first package
+# Package L06
+This is my first API
 
 ## Install
 ```
@@ -11,6 +11,6 @@ npm install
 npm start
 ```
 
-Done by [@pafmon](www.us.es)
+Done by [@gablopbel](www.us.es)
 
 
